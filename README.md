@@ -24,6 +24,7 @@ This completes the setup.
 $ python3 main.py
 ```
 Wait for the channel names to be checked and leave the script enabled.  
-That's it, autocommenting is running.
+That's it, autocommenting is running.  
+The specified comment will be written on each new message with a discussion in the channel.
 ### License
 THERE IS NO LICENSE
